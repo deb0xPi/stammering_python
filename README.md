@@ -3,7 +3,7 @@ This repo contains Jupyter Notebooks that can be used as reference by anyone who
 Welcome aboard
 
 ## On the menu( I would change this dynamically
-- File Handling 🗃
+* File Handling 🗃
 * Numpy 
 * Pandas 🐼
 * Maplotlib 📊
