@@ -26,10 +26,10 @@ Welcome aboard
 
 ### Youtube Channels
 
-* **Scipy Talks on Enthought Youtube Channel** https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A
+* [Scipy Talks on Enthought Youtube Channel](https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A)
 * **Sentdex's Youtube Channel**
 * **Tech with Tim's Youtube Channel**
-* **Corey Schafer's Youtube Channel** https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+* [Corey Schafer's Youtube Channel(https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 ### Books
 
