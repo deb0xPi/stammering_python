@@ -2,8 +2,13 @@
 This repo contains Jupyter Notebooks that can be used as reference by anyone who is taking their first steps to speak the language of Python 🐍!
 Welcome aboard
 
-## On the menu( I would change this dynamically
+## On the menu( I would change this dynamically)
+* Basics
+* Functions,Modules and Packages
 * File Handling 🗃
+* Error Handling
+* Debugging
+* Testing
 * Numpy 
 * Pandas 🐼
 * Maplotlib 📊
